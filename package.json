@@ -1,0 +1,17 @@
+{
+  "name": "segundo-trabajo",
+  "version": "1.0.0",
+  "description": "Segundo trabajo de Node",
+  "main": "src/app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Felipe Chavez y Jorge Luis Monroy",
+  "license": "ISC"
+}
